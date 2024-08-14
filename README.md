@@ -14,3 +14,5 @@ Shivam Zhar LCS2023024 Shivam1983 lcs2023024@iiitl.ac.in
 
 Hitarth Singh Rajput LCS2023040 hitarth-gg lcs2023040@iiitl.ac.in
 
+Vishesh Singh LIT2023054 notVishesh vishesh.bhu1971@gmail.com
+

@@ -23,6 +23,8 @@ Ansh Agrawal LCS2023054 Ansh-Agrawal1817 lcs2023054@iiitl.ac.in
 
 Hitarth Singh Rajput LCS2023040 hitarth-gg lcs2023040@iiitl.ac.in
 
+Dev Darshan LCS2023012 devdrx lcs2023012@iiitl.ac.in
+
 Sidharth Singh LCS2023043 Sidharth-Singh10  lcs2023043@iiitl.ac.in
 
 Lakshya Prajapati LCS2023017 lakshya-3804 lcs2023017@iiitl.ac.in

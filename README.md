@@ -14,10 +14,9 @@ Shivam Zhar LCS2023024 Shivam1983 lcs2023024@iiitl.ac.in
 
 Hitarth Singh Rajput LCS2023040 hitarth-gg lcs2023040@iiitl.ac.in
 
-<<<<<<< HEAD
 Vishesh Singh LIT2023054 notVishesh vishesh.bhu1971@gmail.com
 
-=======
+
 Sidharth Singh LCS2023043 Sidharth-Singh10  lcs2023043@iiitl.ac.in
 
 
@@ -28,9 +27,9 @@ Sidharth Singh LCS2023043 Sidharth-Singh10  lcs2023043@iiitl.ac.in
 Lakshya Prajapati LCS2023017 lakshya-3804 lcs2023017@iiitl.ac.in
 
 Aryam Agarwal LCS2023045 aryamagarwal lcs2203045@iiitl.ac.in
-<<<<<<< HEAD
+
+Aman Vishwakarma LIT2023032 AMANVISHWAKARMA27 lit2023032@iiitl.ac.in
 
 Vaibhav Rawat LCS2023033 VaibhavvRawat lcs2023033@iiitl.ac.in
-=======
->>>>>>> 6d6c3c64c2e77414a2b206146acbbd7fcfcf1c46
->>>>>>> 5038a106ed18b658766e81d4eb59eaafec946315
+
+

@@ -33,6 +33,8 @@ Satyajit Sahoo LCS2023013 satyajit1206 lcs2023013@iiitl.ac.in
 
 Aryam Agarwal LCS2023045 aryamagarwal lcs2203045@iiitl.ac.in
 
+Tanishq Aswar LIT2023029 TanishqAswar lit2023029@iiitl.ac.in
+
 Aman Vishwakarma LIT2023032 AMANVISHWAKARMA27 lit2023032@iiitl.ac.in
 
 Rebant Pratap Singh LCS2023003 Rebant10 lcs2023003@iiitl.ac.in

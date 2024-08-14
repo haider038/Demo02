@@ -6,6 +6,8 @@ Vinaya Sathyanarayana Roll_No VinayaSathyanarayana vinaya@iiitl.ac.in
 
 Sangale Sumit Mahadeo  LCS2023048  sumit0770       lcs2023048@iiitl.ac.in
 
+Aryan Kadian LCS2023051 aryankad1an lcs2023051@iiitl.ac.in
+
 Mayank Mishra LCS2023047 M-ayank2005 lcs2023047@gmail.com
 
 Ajay Antil LCS2023025 Ajayantil7 lcs2023025@iiitl.ac.in

@@ -54,4 +54,4 @@ Sumit Kumar LCS2023044 Eternalynx04 lcs2023044@iiitl.ac.in
 
 Vaibhav Rawat LCS2023033 VaibhavvRawat lcs2023033@iiitl.ac.in
 
-Sarthak Nayyar LCS2023039 LCS2023039@iiitl.ac.in
+Sarthak Nayyar LCS2023039 sarthak_nayyar LCS2023039@iiitl.ac.in

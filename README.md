@@ -28,4 +28,9 @@ Sidharth Singh LCS2023043 Sidharth-Singh10  lcs2023043@iiitl.ac.in
 Lakshya Prajapati LCS2023017 lakshya-3804 lcs2023017@iiitl.ac.in
 
 Aryam Agarwal LCS2023045 aryamagarwal lcs2203045@iiitl.ac.in
+<<<<<<< HEAD
+
+Vaibhav Rawat LCS2023033 VaibhavvRawat lcs2023033@iiitl.ac.in
+=======
 >>>>>>> 6d6c3c64c2e77414a2b206146acbbd7fcfcf1c46
+>>>>>>> 5038a106ed18b658766e81d4eb59eaafec946315
